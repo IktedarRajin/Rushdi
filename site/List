@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Snakes Of Kuratuli</title>
+</head>
+	<body>
+	<header>Teams From &lt;Snakes &amp; Divisons &gt;</header>
+	<h1>Two Teams</h1>
+	<ul>Team Boys
+		<ol>
+			<li>Rajin</li>
+			<li>Sajjad</li>
+			<li>Salman</li></ol></ul>
+	<ul>Team Girls
+		<ol>
+			<li>Shehrin</li>
+			<li>Srijon</li>
+			<li>Jannat</li></ol></ul>
+	</body>
+</html>
